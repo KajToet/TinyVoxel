@@ -1,6 +1,6 @@
 TinyVoxel
 =========
-by Kaj Toet (kvtoet at gm ail d ot com)
+by Kaj Toet (kchatty.com). The followups were VoxelPaint and VRPaint, they have been seen!
 
 A voxelrenderer made with LibGDX supporting desktop, Android and browser. iOS is untested. Ouya support is buggy, due to the small depth buffer.
 
